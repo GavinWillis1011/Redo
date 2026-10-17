@@ -22,7 +22,7 @@ img {
   display: block;
   margin: auto;
 }
-
+/*Flexbox for readability*/
 .flex-container {
   display: flex;
 }
